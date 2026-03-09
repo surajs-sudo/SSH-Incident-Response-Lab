@@ -10,7 +10,7 @@ The initial phase involved parsing raw system logs to identify unauthorized acce
 
 **Log Extraction:** Extracted raw authentication logs from the Linux jump server targeting the SSH service (port 22).
 
-**Traffic Synthesis:** Developed and executed a custom Python script using the Scapy library. This script parsed the raw log text, extracted source and destination IP addresses, and encapsulated the syslog data into UDP packets to generate a forensic PCAP file.
+**Traffic Synthesis:** Developed and executed a custom Python script (with the help of AI) using the Scapy library. This script parsed the raw log text, extracted source and destination IP addresses, and encapsulated the syslog data into UDP packets to generate a forensic PCAP file.
 
 **Network Protocol Analysis:** Imported the generated PCAP into Wireshark for deep packet inspection.
 

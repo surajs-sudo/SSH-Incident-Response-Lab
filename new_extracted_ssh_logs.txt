@@ -1,0 +1,190 @@
+Feb 13 16:14:59 kali systemd[1]: Listening on sshd-unix-local.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_UNIX Local).
+Feb 13 16:14:59 kali systemd[1]: Starting sshd-vsock.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_VSOCK)...
+Feb 13 16:14:59 kali systemd[1]: Listening on sshd-vsock.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_VSOCK).
+Feb 13 16:39:42 kali systemd[1]: sshd-unix-local.socket: Deactivated successfully.
+Feb 13 16:39:42 kali systemd[1]: Closed sshd-unix-local.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_UNIX Local).
+Feb 13 16:39:42 kali systemd[1]: Stopping sshd-vsock.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_VSOCK)...
+Feb 13 16:39:42 kali systemd[1]: sshd-vsock.socket: Deactivated successfully.
+Feb 13 16:39:42 kali systemd[1]: Closed sshd-vsock.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_VSOCK).
+Feb 13 16:40:02 kali systemd[1]: Listening on sshd-unix-local.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_UNIX Local).
+Feb 13 16:40:02 kali systemd[1]: Starting sshd-vsock.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_VSOCK)...
+Feb 13 16:40:03 kali systemd[1]: Listening on sshd-vsock.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_VSOCK).
+Feb 13 18:02:14 kali systemd[1]: sshd-unix-local.socket: Deactivated successfully.
+Feb 13 18:02:14 kali systemd[1]: Closed sshd-unix-local.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_UNIX Local).
+Feb 13 18:02:14 kali systemd[1]: Stopping sshd-vsock.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_VSOCK)...
+Feb 13 18:02:14 kali systemd[1]: sshd-vsock.socket: Deactivated successfully.
+Feb 13 18:02:14 kali systemd[1]: Closed sshd-vsock.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_VSOCK).
+Feb 13 21:30:30 kali systemd[1]: Listening on sshd-unix-local.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_UNIX Local).
+Feb 13 21:30:30 kali systemd[1]: Starting sshd-vsock.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_VSOCK)...
+Feb 13 21:30:30 kali systemd[1]: Listening on sshd-vsock.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_VSOCK).
+Feb 13 21:32:50 kali systemd[1]: sshd-unix-local.socket: Deactivated successfully.
+Feb 13 21:32:50 kali systemd[1]: Closed sshd-unix-local.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_UNIX Local).
+Feb 13 21:32:50 kali systemd[1]: Stopping sshd-vsock.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_VSOCK)...
+Feb 13 21:32:50 kali systemd[1]: sshd-vsock.socket: Deactivated successfully.
+Feb 13 21:32:50 kali systemd[1]: Closed sshd-vsock.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_VSOCK).
+Feb 13 21:34:04 kali systemd[1]: Listening on sshd-unix-local.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_UNIX Local).
+Feb 13 21:34:04 kali systemd[1]: Starting sshd-vsock.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_VSOCK)...
+Feb 13 21:34:04 kali systemd[1]: Listening on sshd-vsock.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_VSOCK).
+Feb 13 21:54:54 kali systemd[1]: sshd-vsock.socket: Unit configuration changed while unit was running, and no socket file descriptors are open. Unit not functional until restarted.
+Feb 13 21:54:54 kali systemd[1]: sshd-unix-local.socket: Unit configuration changed while unit was running, and no socket file descriptors are open. Unit not functional until restarted.
+Feb 13 21:54:54 kali systemd[1]: sshd-vsock.socket: Unit configuration changed while unit was running, and no socket file descriptors are open. Unit not functional until restarted.
+Feb 13 21:54:54 kali systemd[1]: sshd-unix-local.socket: Unit configuration changed while unit was running, and no socket file descriptors are open. Unit not functional until restarted.
+Feb 13 21:54:54 kali systemd[1]: sshd-vsock.socket: Unit configuration changed while unit was running, and no socket file descriptors are open. Unit not functional until restarted.
+Feb 13 21:54:54 kali systemd[1]: sshd-unix-local.socket: Unit configuration changed while unit was running, and no socket file descriptors are open. Unit not functional until restarted.
+Feb 13 22:08:30 kali systemd[1]: sshd-unix-local.socket: Deactivated successfully.
+Feb 13 22:08:30 kali systemd[1]: Closed sshd-unix-local.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_UNIX Local).
+Feb 13 22:08:30 kali systemd[1]: Stopping sshd-vsock.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_VSOCK)...
+Feb 13 22:08:30 kali systemd[1]: sshd-vsock.socket: Deactivated successfully.
+Feb 13 22:08:30 kali systemd[1]: Closed sshd-vsock.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_VSOCK).
+Feb 13 22:08:44 kali systemd[1]: Listening on sshd-unix-local.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_UNIX Local).
+Feb 13 22:08:44 kali systemd[1]: Starting sshd-vsock.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_VSOCK)...
+Feb 13 22:08:44 kali systemd[1]: Listening on sshd-vsock.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_VSOCK).
+Feb 13 22:21:35 kali systemd[1]: sshd-unix-local.socket: Deactivated successfully.
+Feb 13 22:21:35 kali systemd[1]: Closed sshd-unix-local.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_UNIX Local).
+Feb 13 22:21:35 kali systemd[1]: Stopping sshd-vsock.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_VSOCK)...
+Feb 13 22:21:35 kali systemd[1]: sshd-vsock.socket: Deactivated successfully.
+Feb 13 22:21:35 kali systemd[1]: Closed sshd-vsock.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_VSOCK).
+Feb 13 22:22:32 kali systemd[1]: Listening on sshd-unix-local.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_UNIX Local).
+Feb 13 22:22:32 kali systemd[1]: Starting sshd-vsock.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_VSOCK)...
+Feb 13 22:22:32 kali systemd[1]: Listening on sshd-vsock.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_VSOCK).
+Feb 13 22:34:28 kali systemd[1]: sshd-unix-local.socket: Deactivated successfully.
+Feb 13 22:34:28 kali systemd[1]: Closed sshd-unix-local.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_UNIX Local).
+Feb 13 22:34:28 kali systemd[1]: Stopping sshd-vsock.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_VSOCK)...
+Feb 13 22:34:28 kali systemd[1]: sshd-vsock.socket: Deactivated successfully.
+Feb 13 22:34:28 kali systemd[1]: Closed sshd-vsock.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_VSOCK).
+Feb 13 22:38:44 kali systemd[1]: Listening on sshd-unix-local.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_UNIX Local).
+Feb 13 22:38:44 kali systemd[1]: Starting sshd-vsock.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_VSOCK)...
+Feb 13 22:38:44 kali systemd[1]: Listening on sshd-vsock.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_VSOCK).
+Feb 13 22:39:31 kali systemd[1]: sshd-unix-local.socket: Deactivated successfully.
+Feb 13 22:39:31 kali systemd[1]: Closed sshd-unix-local.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_UNIX Local).
+Feb 13 22:39:31 kali systemd[1]: Stopping sshd-vsock.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_VSOCK)...
+Feb 13 22:39:31 kali systemd[1]: sshd-vsock.socket: Deactivated successfully.
+Feb 13 22:39:31 kali systemd[1]: Closed sshd-vsock.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_VSOCK).
+Feb 13 22:39:55 kali systemd[1]: Listening on sshd-unix-local.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_UNIX Local).
+Feb 13 22:39:55 kali systemd[1]: Starting sshd-vsock.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_VSOCK)...
+Feb 13 22:39:55 kali systemd[1]: Listening on sshd-vsock.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_VSOCK).
+Feb 13 22:41:36 kali systemd[1]: sshd-unix-local.socket: Deactivated successfully.
+Feb 13 22:41:36 kali systemd[1]: Closed sshd-unix-local.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_UNIX Local).
+Feb 13 22:41:36 kali systemd[1]: Stopping sshd-vsock.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_VSOCK)...
+Feb 13 22:41:36 kali systemd[1]: sshd-vsock.socket: Deactivated successfully.
+Feb 13 22:41:36 kali systemd[1]: Closed sshd-vsock.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_VSOCK).
+Feb 13 22:42:27 kali systemd[1]: Listening on sshd-unix-local.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_UNIX Local).
+Feb 13 22:42:27 kali systemd[1]: Starting sshd-vsock.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_VSOCK)...
+Feb 13 22:42:27 kali systemd[1]: Listening on sshd-vsock.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_VSOCK).
+Feb 13 22:44:45 kali systemd[1]: sshd-unix-local.socket: Deactivated successfully.
+Feb 13 22:44:45 kali systemd[1]: Closed sshd-unix-local.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_UNIX Local).
+Feb 13 22:44:45 kali systemd[1]: Stopping sshd-vsock.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_VSOCK)...
+Feb 13 22:44:45 kali systemd[1]: sshd-vsock.socket: Deactivated successfully.
+Feb 13 22:44:45 kali systemd[1]: Closed sshd-vsock.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_VSOCK).
+Feb 14 11:30:45 kali systemd[1]: Listening on sshd-unix-local.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_UNIX Local).
+Feb 14 11:30:45 kali systemd[1]: Starting sshd-vsock.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_VSOCK)...
+Feb 14 11:30:45 kali systemd[1]: Listening on sshd-vsock.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_VSOCK).
+Feb 14 15:43:17 kali systemd[1]: sshd-unix-local.socket: Deactivated successfully.
+Feb 14 15:43:17 kali systemd[1]: Closed sshd-unix-local.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_UNIX Local).
+Feb 14 15:43:17 kali systemd[1]: Stopping sshd-vsock.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_VSOCK)...
+Feb 14 15:43:17 kali systemd[1]: sshd-vsock.socket: Deactivated successfully.
+Feb 14 15:43:17 kali systemd[1]: Closed sshd-vsock.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_VSOCK).
+Feb 15 20:21:45 kali systemd[1]: Listening on sshd-unix-local.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_UNIX Local).
+Feb 15 20:21:45 kali systemd[1]: Starting sshd-vsock.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_VSOCK)...
+Feb 15 20:21:45 kali systemd[1]: Listening on sshd-vsock.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_VSOCK).
+Feb 15 20:32:20 kali systemd[1]: sshd-unix-local.socket: Deactivated successfully.
+Feb 15 20:32:20 kali systemd[1]: Closed sshd-unix-local.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_UNIX Local).
+Feb 15 20:32:20 kali systemd[1]: Stopping sshd-vsock.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_VSOCK)...
+Feb 15 20:32:20 kali systemd[1]: sshd-vsock.socket: Deactivated successfully.
+Feb 15 20:32:20 kali systemd[1]: Closed sshd-vsock.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_VSOCK).
+Feb 16 00:35:42 kali systemd[1]: Listening on sshd-unix-local.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_UNIX Local).
+Feb 16 00:35:42 kali systemd[1]: Starting sshd-vsock.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_VSOCK)...
+Feb 16 00:35:42 kali systemd[1]: Listening on sshd-vsock.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_VSOCK).
+Feb 16 01:45:56 kali systemd[1]: sshd-unix-local.socket: Deactivated successfully.
+Feb 16 01:45:56 kali systemd[1]: Closed sshd-unix-local.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_UNIX Local).
+Feb 16 01:45:56 kali systemd[1]: Stopping sshd-vsock.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_VSOCK)...
+Feb 16 01:45:56 kali systemd[1]: sshd-vsock.socket: Deactivated successfully.
+Feb 16 01:45:56 kali systemd[1]: Closed sshd-vsock.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_VSOCK).
+Feb 16 12:08:37 kali systemd[1]: Listening on sshd-unix-local.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_UNIX Local).
+Feb 16 12:08:37 kali systemd[1]: Starting sshd-vsock.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_VSOCK)...
+Feb 16 12:08:37 kali systemd[1]: Listening on sshd-vsock.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_VSOCK).
+Feb 16 14:00:06 kali systemd[1]: sshd-unix-local.socket: Deactivated successfully.
+Feb 16 14:00:06 kali systemd[1]: Closed sshd-unix-local.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_UNIX Local).
+Feb 16 14:00:06 kali systemd[1]: Stopping sshd-vsock.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_VSOCK)...
+Feb 16 14:00:06 kali systemd[1]: sshd-vsock.socket: Deactivated successfully.
+Feb 16 14:00:06 kali systemd[1]: Closed sshd-vsock.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_VSOCK).
+Feb 17 12:24:36 kali systemd[1]: Listening on sshd-unix-local.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_UNIX Local).
+Feb 17 12:24:36 kali systemd[1]: Starting sshd-vsock.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_VSOCK)...
+Feb 17 12:24:36 kali systemd[1]: Listening on sshd-vsock.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_VSOCK).
+Feb 17 16:01:12 kali systemd[1]: sshd-unix-local.socket: Deactivated successfully.
+Feb 17 16:01:12 kali systemd[1]: Closed sshd-unix-local.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_UNIX Local).
+Feb 17 16:01:12 kali systemd[1]: Stopping sshd-vsock.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_VSOCK)...
+Feb 17 16:01:12 kali systemd[1]: sshd-vsock.socket: Deactivated successfully.
+Feb 17 16:01:12 kali systemd[1]: Closed sshd-vsock.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_VSOCK).
+Feb 17 20:40:42 kali systemd[1]: Listening on sshd-unix-local.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_UNIX Local).
+Feb 17 20:40:42 kali systemd[1]: Starting sshd-vsock.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_VSOCK)...
+Feb 17 20:40:42 kali systemd[1]: Listening on sshd-vsock.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_VSOCK).
+Feb 17 22:49:32 kali systemd[1]: sshd-unix-local.socket: Deactivated successfully.
+Feb 17 22:49:32 kali systemd[1]: Closed sshd-unix-local.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_UNIX Local).
+Feb 17 22:49:32 kali systemd[1]: Stopping sshd-vsock.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_VSOCK)...
+Feb 17 22:49:32 kali systemd[1]: sshd-vsock.socket: Deactivated successfully.
+Feb 17 22:49:32 kali systemd[1]: Closed sshd-vsock.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_VSOCK).
+Feb 19 22:26:26 kali systemd[1]: Listening on sshd-unix-local.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_UNIX Local).
+Feb 19 22:26:26 kali systemd[1]: Starting sshd-vsock.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_VSOCK)...
+Feb 19 22:26:26 kali systemd[1]: Listening on sshd-vsock.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_VSOCK).
+Feb 19 22:41:03 kali systemd[1]: sshd-unix-local.socket: Deactivated successfully.
+Feb 19 22:41:03 kali systemd[1]: Closed sshd-unix-local.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_UNIX Local).
+Feb 19 22:41:03 kali systemd[1]: Stopping sshd-vsock.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_VSOCK)...
+Feb 19 22:41:03 kali systemd[1]: sshd-vsock.socket: Deactivated successfully.
+Feb 19 22:41:03 kali systemd[1]: Closed sshd-vsock.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_VSOCK).
+Feb 21 12:51:28 kali systemd[1]: Listening on sshd-unix-local.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_UNIX Local).
+Feb 21 12:51:28 kali systemd[1]: Starting sshd-vsock.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_VSOCK)...
+Feb 21 12:51:28 kali systemd[1]: Listening on sshd-vsock.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_VSOCK).
+Feb 21 14:09:21 kali systemd[1]: sshd-unix-local.socket: Deactivated successfully.
+Feb 21 14:09:21 kali systemd[1]: Closed sshd-unix-local.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_UNIX Local).
+Feb 21 14:09:21 kali systemd[1]: Stopping sshd-vsock.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_VSOCK)...
+Feb 21 14:09:21 kali systemd[1]: sshd-vsock.socket: Deactivated successfully.
+Feb 21 14:09:21 kali systemd[1]: Closed sshd-vsock.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_VSOCK).
+Feb 21 14:10:10 kali systemd[1]: Listening on sshd-unix-local.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_UNIX Local).
+Feb 21 14:10:10 kali systemd[1]: Starting sshd-vsock.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_VSOCK)...
+Feb 21 14:10:10 kali systemd[1]: Listening on sshd-vsock.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_VSOCK).
+Feb 21 16:20:52 kali systemd[1]: sshd-unix-local.socket: Deactivated successfully.
+Feb 21 16:20:52 kali systemd[1]: Closed sshd-unix-local.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_UNIX Local).
+Feb 21 16:20:52 kali systemd[1]: Stopping sshd-vsock.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_VSOCK)...
+Feb 21 16:20:52 kali systemd[1]: sshd-vsock.socket: Deactivated successfully.
+Feb 21 16:20:52 kali systemd[1]: Closed sshd-vsock.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_VSOCK).
+Mar 03 21:50:04 kali systemd[1]: Listening on sshd-unix-local.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_UNIX Local).
+Mar 03 21:50:04 kali systemd[1]: Starting sshd-vsock.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_VSOCK)...
+Mar 03 21:50:04 kali systemd[1]: Listening on sshd-vsock.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_VSOCK).
+Mar 04 00:48:23 kali systemd[1]: sshd-unix-local.socket: Deactivated successfully.
+Mar 04 00:48:23 kali systemd[1]: Closed sshd-unix-local.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_UNIX Local).
+Mar 04 00:48:23 kali systemd[1]: Stopping sshd-vsock.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_VSOCK)...
+Mar 04 00:48:23 kali systemd[1]: sshd-vsock.socket: Deactivated successfully.
+Mar 04 00:48:23 kali systemd[1]: Closed sshd-vsock.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_VSOCK).
+Mar 04 13:37:07 kali systemd[1]: Listening on sshd-unix-local.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_UNIX Local).
+Mar 04 13:37:07 kali systemd[1]: Starting sshd-vsock.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_VSOCK)...
+Mar 04 13:37:07 kali systemd[1]: Listening on sshd-vsock.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_VSOCK).
+Mar 04 16:28:36 kali sshd[94576]: Server listening on 0.0.0.0 port 22.
+Mar 04 16:28:36 kali sshd[94576]: Server listening on :: port 22.
+Mar 04 16:51:38 kali sshd[94576]: Received signal 15; terminating.
+Mar 04 16:51:38 kali systemd[1]: sshd-unix-local.socket: Deactivated successfully.
+Mar 04 16:51:38 kali systemd[1]: Closed sshd-unix-local.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_UNIX Local).
+Mar 04 16:51:38 kali systemd[1]: Stopping sshd-vsock.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_VSOCK)...
+Mar 04 16:51:38 kali systemd[1]: sshd-vsock.socket: Deactivated successfully.
+Mar 04 16:51:38 kali systemd[1]: Closed sshd-vsock.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_VSOCK).
+Mar 04 20:23:08 kali systemd[1]: Listening on sshd-unix-local.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_UNIX Local).
+Mar 04 20:23:08 kali systemd[1]: Starting sshd-vsock.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_VSOCK)...
+Mar 04 20:23:08 kali systemd[1]: Listening on sshd-vsock.socket - OpenSSH Server Socket (systemd-ssh-generator, AF_VSOCK).
+Mar 04 20:23:09 kali sshd[976]: Server listening on 0.0.0.0 port 22.
+Mar 04 20:23:09 kali sshd[976]: Server listening on :: port 22.
+Mar 04 20:34:17 kali systemd[1]: sshd-vsock.socket: Unit configuration changed while unit was running, and no socket file descriptors are open. Unit not functional until restarted.
+Mar 04 20:34:17 kali systemd[1]: sshd-unix-local.socket: Unit configuration changed while unit was running, and no socket file descriptors are open. Unit not functional until restarted.
+Mar 04 20:34:17 kali systemd[1]: sshd-vsock.socket: Unit configuration changed while unit was running, and no socket file descriptors are open. Unit not functional until restarted.
+Mar 04 20:34:17 kali systemd[1]: sshd-unix-local.socket: Unit configuration changed while unit was running, and no socket file descriptors are open. Unit not functional until restarted.
+Mar 04 21:10:40 kali sshd-session[24917]: Invalid user attacker from 203.0.113.10 port 50548
+Mar 04 21:11:14 kali sshd-session[24917]: pam_unix(sshd:auth): check pass; user unknown
+Mar 04 21:11:14 kali sshd-session[24917]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=203.0.113.10
+Mar 04 21:11:16 kali sshd-session[24917]: Failed password for invalid user attacker from 203.0.113.10 port 50548 ssh2
+Mar 04 21:11:58 kali sshd[976]: Timeout before authentication for connection from 203.0.113.10 to 10.0.0.50, pid = 24917
+Mar 04 21:18:10 kali sshd-session[28871]: Accepted password for kali from 203.0.113.10 port 59057 ssh2
+Mar 04 21:18:10 kali sshd-session[28871]: pam_unix(sshd:session): session opened for user kali(uid=1000) by kali(uid=0)
+Mar 04 21:26:47 kali sshd-session[28871]: syslogin_perform_logout: logout() returned an error
+Mar 04 21:26:47 kali sshd-session[28951]: Received disconnect from 203.0.113.10 port 59057:11: disconnected by user
+Mar 04 21:26:47 kali sshd-session[28951]: Disconnected from user kali 203.0.113.10 port 59057
+Mar 04 21:26:47 kali sshd-session[28871]: pam_unix(sshd:session): session closed for user kali
+Mar 04 22:01:32 kali sudo[49698]:     kali : TTY=pts/0 ; PWD=/var ; USER=root ; COMMAND=/usr/bin/grep sshd /var/log/auth.log
